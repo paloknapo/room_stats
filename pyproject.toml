@@ -12,6 +12,7 @@ specklepy = "^2.16.0"
 typer = "^0.9.0"
 pydantic = "^2.1.1"
 stringcase = "^1.2.0"
+pandas = "^2.0.3"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.3.0"
