@@ -11,7 +11,7 @@ def main(speckle_project_data: str, function_inputs: str, speckle_token: str = "
 
     project_data = SpeckleProjectData.model_validate_json(speckle_project_data)
     inputs = FunctionInputs.model_validate_json(function_inputs)
-    automate_function(project_data, inputs, speckle_token)
+    automate_function(project_data, function_inputs, speckle_token)
 
 
 if __name__ == "__main__":

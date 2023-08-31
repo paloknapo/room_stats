@@ -13,9 +13,9 @@
       "justMyCode": true,
       "envFile": "${workspaceFolder}/.env",
       "args": [
-        "{\"projectId\": \"843d07eb10\", \"modelId\": \"base design\", \"versionId\": \"2a32ccfee1\", \"speckleServerUrl\": \"https://latest.speckle.systems\"}",
+        "{\"projectId\": \"361e185dc7\", \"modelId\": \"arch\", \"versionId\": \"dfec9dca8a\", \"speckleServerUrl\": \"https://speckle.xyz\"}",
         // make sure to use camelCase for variable names
-        "{\"reportMessage\": \"Objects.Geometry.Brep\"}"
+        "{\"reportMessage\": \"Total area, mean area, number of rooms \"}"
       ],
     },
   ]
